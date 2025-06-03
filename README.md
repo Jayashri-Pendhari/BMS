@@ -33,7 +33,7 @@ A simple **Bank Management System** built with **Java Swing** and **File Handlin
 - Java (JDK 8+)
 - Java Swing (GUI)
 - IntelliJ IDEA 
-- MySQL DB (based on implementation)
+- MySQL DB 
 
 ---
 ## 🚀 How to Run
@@ -48,4 +48,4 @@ A simple **Bank Management System** built with **Java Swing** and **File Handlin
    - Make Mysql DB connection (Add the MySQL connector JAR to your classpath.)
 Download the JAR files and add as external libraries.
 
- 📌 If you like this project, don't forget to **star** it and **follow** for more!
+ 📌 If you like this project, don't forget to **⭐** it and **follow** for more!
