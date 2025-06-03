@@ -19,12 +19,12 @@ A simple **Bank Management System** built with **Java Swing** and **File Handlin
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/8ab5d669-691c-41e4-9091-1eda86612dfe" width="200" />
-  <img src="https://github.com/user-attachments/assets/c4d14d98-201f-42a8-996f-8ebcad18043f" width="200" />
-  <img src="https://github.com/user-attachments/assets/4468ba36-d43e-42ea-ba7a-cffa8229f882" width="200" />
-  <img src="https://github.com/user-attachments/assets/bece1280-ed3e-4399-a9a7-a23c1c2da461" width="200" />
-  <img src="https://github.com/user-attachments/assets/f11d23f6-0068-4c2f-8c28-678a719c222c" width="200" />
-  <img src="https://github.com/user-attachments/assets/39bd3f7d-e401-4be2-879f-31d7a25e8fdc" width="400" />
+  <img src="https://github.com/user-attachments/assets/8ab5d669-691c-41e4-9091-1eda86612dfe" width="180" />
+  <img src="https://github.com/user-attachments/assets/c4d14d98-201f-42a8-996f-8ebcad18043f" width="180" />
+  <img src="https://github.com/user-attachments/assets/4468ba36-d43e-42ea-ba7a-cffa8229f882" width="180" />
+  <img src="https://github.com/user-attachments/assets/bece1280-ed3e-4399-a9a7-a23c1c2da461" width="180" />
+  <img src="https://github.com/user-attachments/assets/f11d23f6-0068-4c2f-8c28-678a719c222c" width="180" />
+  <img src="https://github.com/user-attachments/assets/39bd3f7d-e401-4be2-879f-31d7a25e8fdc" width="180" />
 </p>
 
 ---
